@@ -1,0 +1,21 @@
+ .logo-imagem{width: 20%;}
+
+ body {background-color: #8AD2E2;
+color: rgb(0, 0, 0); display:flex; justify-content:
+space-around;}
+
+.lista{display: inline-block; margin: 0
+16px; padding: 24px 0; font-size: 24px;}
+
+* {margin: 0; padding: 0;}
+
+
+.estudante-div {text-align: center;}
+.estudante-nome {text-align: center;}
+.estudante-foto {text-align: center;}
+
+
+
+
+
+
